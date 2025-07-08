@@ -10,7 +10,6 @@ py310
 git
 
 train/*
-logs/*
 sd-models/*
 !sd-models/put stable diffusion model here.txt
 !logs/.keep
